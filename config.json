@@ -1,3 +1,4 @@
 {
-  "greeting": "Good Afternoon"
+  "cta": "Click Me",
+  "buttonColor": "0099ff",
 }
